@@ -1,4 +1,6 @@
 rencana branch baru
 -membuat branch
+*branching
+*merge
 -lancar branching
 -mingdup udah slesai github
