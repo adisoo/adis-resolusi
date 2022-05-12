@@ -4,3 +4,4 @@ rencana branch baru
 *merge
 -lancar branching
 -mingdup udah slesai github
+-coa nambahin comit
